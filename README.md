@@ -42,8 +42,4 @@ Quer ajudar a melhorar o Mundo Sneakershead? Seja muito bem-vindo! Você pode:
 
 Sinta-se à vontade para abrir uma issue no repositório. Teremos prazer em te ajudar!
 
-**#sneakers #ténis #modafeminina #modamasculina #desenvolvimentoweb**
-
-**[Imagem de um tênis estiloso]**
-
-**[GIF animado de uma busca sendo realizada na aplicação]**
+**#sneakers #tênis #modafeminina #modamasculina #desenvolvimentoweb**
